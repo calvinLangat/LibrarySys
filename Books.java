@@ -231,8 +231,7 @@ public class Books extends JFrame {
 								rs.getString(4)
 								
 							});
-					
-					
+						
 				
 			}
 			catch(Exception ie)
